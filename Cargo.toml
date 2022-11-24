@@ -1,5 +1,5 @@
 [package]
-name = "xml_schema"
+name = "x_suite"
 version = "0.1.0"
 edition = "2021"
 
