@@ -1,0 +1,16 @@
+pub struct AllNNI;
+pub struct BasicNamespaceList;
+pub struct BlockSet;
+pub struct DerivationControl;
+pub struct DerivationSet;
+pub struct FormChoice;
+pub struct FullDerivationSet;
+pub struct NamespaceList;
+pub struct Public;
+pub struct QnameList;
+pub struct QnameListA;
+pub struct ReducedDerivationControl;
+pub struct SimpleDerivationSet;
+pub struct SpecialNamespaceList;
+pub struct TypeDerivationControl;
+pub struct XpathDefaultNamespace;

@@ -1,0 +1,13 @@
+pub struct AllModel;
+pub struct Assertions;
+pub struct AttrDecls;
+pub struct ComplexTypeModel;
+pub struct Composition;
+pub struct IdentityConstraint;
+pub struct NestedParticle;
+pub struct Particle;
+pub struct Redefinable;
+pub struct SchemaTop;
+pub struct SimpleDerivation;
+pub struct SimpleRestrictionModel;
+pub struct TypeDefParticle;
