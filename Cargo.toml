@@ -1,10 +1,5 @@
-[package]
-name = "x_suite"
-version = "0.1.0"
-edition = "2021"
+[workspace]
 
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+resolver = "2"
 
-[dependencies]
-quick-xml = { version = "0.26.0", features = ["serde"] }
-serde = { version = "1.0.147", features = ["derive"] }
+members = ["crates/*"]
