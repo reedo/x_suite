@@ -8,10 +8,13 @@ None.
 
 ## In Progress
 
+- XML Document
 - XML Schema Definition (XSD)
+- RelaxNG Schema (RNG)
 
 ## To Do
 
 - eXtensible Stylesheet Language (XSLT)
 - XML Pipeline Language (XProc)
 - XSL Formatting Objects (XSL-FO)
+- XPath/XQuery (XqueryX)
